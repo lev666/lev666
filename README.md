@@ -21,6 +21,8 @@
 
 <p></p>
 
+<h3 align="left">Statistics:</h3>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lev666&show_icons=true&locale=en&layout=compact" alt="lev666" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lev666&show_icons=true&locale=en" alt="lev666" /></p>
